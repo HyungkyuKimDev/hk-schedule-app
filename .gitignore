@@ -1,5 +1,8 @@
 # DS_Store
 .DS_Store
 
+# env
+.env
+
 # Exclude internal work documents such as task plans, notes, and work logs
 task/
