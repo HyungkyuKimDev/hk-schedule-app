@@ -1,0 +1,5 @@
+# DS_Store
+.DS_Store
+
+# Exclude internal work documents such as task plans, notes, and work logs
+task/
